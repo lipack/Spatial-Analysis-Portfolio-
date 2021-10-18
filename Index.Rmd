@@ -1,0 +1,88 @@
+---
+title: "Spatial Analysis Portfolio"
+author: "Livesey Pack"
+date: "10/16/2021"
+output: 
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+This portfolio comprises a sampling of maps created during a six-week module, "Spatial Analysis," at the Harvard Graduate School of Design in the fall of 2021. Each map highlights a skill, or skills, that demonstrate proficiency in analyzing and mapping geospatial data in R. 
+
+# Displaying Multiple Vector Layers 
+
+This map demonstrates the following skills: 
+
+* Displaying multiple vector layers on the same map
+* Load spatial datasets from a file
+* Load a basemap image from the rosm package, using the ggspatial package
+
+## Cambridge
+[![](thumbnails/Cambridge Map.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/Cambridge Map.pdf){target="_blank"}
+
+# Georeferencing
+
+This georeferenced map demonstrates the following skills: 
+
+* Georeferencing a raster image
+
+## San Francisco
+[![](thumbnails/GeoRef.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/GeoRef.pdf){target="_blank"}
+
+# Analyzing Relationships between Point and Polygon Layers
+
+## Chicago 
+
+This map demonstrates the following skill: 
+
+* Calculating and displaying relationships among point and polygon layers based on distance
+
+[![](thumbnails/chicago_map.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/chicago_map1.pdf){target="_blank"}
+
+This map demonstrates the following skill: 
+
+* Aggregating point data to a layer of polygons
+
+[![](thumbnails/Chicago_FINAL.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/Chicago_FINAL.pdf){target="_blank"}
+
+# Calculating Accessibility 
+
+## Isochrone Map
+
+This map demonstrates the following skill:
+
+* Calculating and displaying accessibility, based on travel time
+
+[![](thumbnails/accessibility_PHL_map.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/accessibility_PHL_map.pdf){target="_blank"}
+
+
+## Accessibility Matrix 
+
+This map demonstrates the following skills:
+
+* Converting between raster layers and vector layers
+* Displaying raster data on a map
+
+[![](thumbnails/raster_PHL_map.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/raster_PHL_map.pdf){target="_blank"}
+
+
+# Interactive Mapping
+
+This map demonstrates the following skills:
+
+* Accessing and analyzing census data 
+* Displaying data on an interactive map
+
+## Alameda County
+
+[![](thumbnails/Interactive Map_USE THIS ONE.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/VIS 2128_Assignment 6_Pack.html){target="_blank"}
+
+
