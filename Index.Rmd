@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Introduction
-This portfolio comprises a sampling of maps created during a six-week module, "Spatial Analysis," at the Harvard Graduate School of Design in the fall of 2021. Each map highlights a skill, or skills, that demonstrate proficiency in analyzing and mapping geospatial data in R. 
+This portfolio comprises a sampling of maps created during a six-week module, "Spatial Analysis," at the Harvard Graduate School of Design in the Fall of 2021. Each map highlights a skill, or skills, that demonstrate proficiency in analyzing and mapping geospatial data in R. 
 
 # Displaying Multiple Vector Layers 
 
@@ -36,13 +36,12 @@ This georeferenced map demonstrates the following skills:
 * Georeferencing a raster image
 
 ## San Francisco
-<<<<<<< HEAD
+
 [![](thumbnails/GeoRef.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/GeoRef.pdf){target="_blank}
 
 The above map displays a georeferenced historic map of San Francisco. This map provides the basis for analysis of contemporary data sets, courtesy of San Francisco's open data portal. Specifically, this map looks at the overlay of the city's seismic hazard zones with respect to the development sites of the now-defunct San Francisco Redevelopment Authority.  
-=======
-[![](thumbnails/GeoRef.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/GeoRef.pdf){target="_blank}
 
+[![](thumbnails/GeoRef.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/GeoRef.pdf){target="_blank}
 
 # Analyzing Relationships between Point and Polygon Layers
 
@@ -102,6 +101,8 @@ This map demonstrates the following skills:
 
 ## Alameda County
 
-[![](thumbnails/Interactive Map_USE THIS ONE.png)](https://c-voulgaris.github.io/portfolio_examples/fullsize/VIS 2128_Assignment 6_Pack.html){target="_blank"}
+[![](thumbnails/Interactive Map_USE THIS ONE.png)](https://lipack.github.io/Spatial-Analysis-Portfolio-/fullsize/VIS 2128_Assignment 6_Pack.html){target="_blank"}
 
 The above map displays the percentage of owner-occupied units by race, with an emphasis on Black homeowners, across Alameda County in Northern California.
+
+
